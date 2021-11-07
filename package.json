@@ -1,6 +1,7 @@
 {
   "name": "samsantech-app",
   "version": "0.1.0",
+  "main": "server.js",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
@@ -41,7 +42,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
