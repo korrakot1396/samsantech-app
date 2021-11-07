@@ -215,7 +215,7 @@ function Main() {
                     <Route path="/splash" component={Splash}/>
 
                     <Route path="/contact/:id" component={ContactDetail}/>
-                    {/* <Route path="*" component={NotFoundPage} /> */}
+                    <Route path="*" component={NotFoundPage} />
                 </Switch>
             </Router>
         </div>
