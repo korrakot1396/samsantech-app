@@ -56,7 +56,7 @@ json-server -p 3006 -w db.json
 
 ## Demo App 
 
-# This link https://samsantech-app.herokuapp.com/home
+# This link https://samsantech-app.herokuapp.com
 
 ![](https://github.com/korrakot1396/samsantech-app/blob/main/src/images/demo/demo_1.PNG)
 
