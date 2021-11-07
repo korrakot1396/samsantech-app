@@ -54,7 +54,10 @@ json-server -p 3006 -w db.json
 :heavy_check_mark: Nest Hub <br/>
 :heavy_check_mark: Nest Hub Max
 
-## Demo App
+## Demo App 
+
+# This link https://samsantech-app.herokuapp.com/home
+
 ![](https://github.com/korrakot1396/samsantech-app/blob/main/src/images/demo/demo_1.PNG)
 
 ![](https://github.com/korrakot1396/samsantech-app/blob/main/src/images/demo/demo_2.PNG)
