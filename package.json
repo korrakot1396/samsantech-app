@@ -1,8 +1,9 @@
 {
   "name": "samsantech-app",
   "version": "0.1.0",
-  "private": true,
+  "main": "server.js",
   "dependencies": {
+    "json-server": "^0.16.3",
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "@material-ui/core": "^4.12.3",
@@ -41,10 +42,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "node server.js",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node server.js"
   },
   "eslintConfig": {
     "extends": [
